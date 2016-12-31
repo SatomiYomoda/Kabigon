@@ -1,9 +1,9 @@
 # Site settings
 title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "http://sunbliss.github.io"
-baseurl: "/photorama"
+email: "w230185@gmail.com"
+description: "Satomi's Blog"
+url: "http://satomiyomoda.github.io"
+baseurl: "/kabigon"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,8 +15,8 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
-  avatar: avatar.png
+  name:   Satomi Yomoda
+  avatar: avatar.JPG
   favicon: favicon.ico
   info: photography website template
 
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "http://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "http://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://satomiyomoda.github.io/kabigon/gallery/"  
+  - JOURNAL: "http://satomiyomoda.github.io/kabigon/journal/"
+  - ABOUT: "http://satomiyomoda.github.io/kabigon/about/"
 
 # All translation keys
 translations:
